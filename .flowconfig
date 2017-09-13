@@ -1,8 +1,10 @@
 [ignore]
+*/node_modules/\(!foobar\)/.*
 
 [include]
 
 [libs]
+flow-typed
 
 [lints]
 

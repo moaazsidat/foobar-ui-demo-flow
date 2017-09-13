@@ -20,7 +20,7 @@ class App extends Component<Props, void> {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <SumComponent input={[1,2]}/>
+        <SumComponent input={1}/>
       </div>
     );
   }
